@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Project-Authentication-Module
-=======
 # Project Authentication Module (Supabase Backend)
 
 This folder contains the Supabase project configuration and Edge Functions for the Authentication module.
